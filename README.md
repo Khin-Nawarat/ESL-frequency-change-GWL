@@ -1,8 +1,7 @@
 ## Author
 Khin Nawarat (March 2026, IHE Delft)
 ## Code origin
-
-Parts of this workflow adapt functions from the analysis of Tebaldi et al. (2021a), which examined the global warming levels (GWLs) at which present-day 100-year extreme sea level (ESL) events become annual events: https://github.com/DOE-ICoM/tebaldi-etal_2021_natclimchange
+This repository provides the workflow used to extend the analysis of Tebaldi et al. (2021a), which estimated the global warming levels (GWLs) and timing at which present-day 100-year extreme sea-level (ESL) events become annual events. The extension expands the analysis to multiple present-day ESL return periods (10-, 20-, 50-, 100-, and 200-year events) while using the same present-day ESL and relative sea-level change (RSLC) datasets, probabilistic framework, and synthesis methods. Parts of this workflow adapt functions from the code repository accompanying Tebaldi et al. (2021a): https://github.com/DOE-ICoM/tebaldi-etal_2021_natclimchange
 
 ## Modifications implemented to produce the datasets
 
